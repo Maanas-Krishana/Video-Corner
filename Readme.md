@@ -10,6 +10,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 
 ---
 
+
 # ✨ Features
 
 - 📹 HD Video Calling
@@ -24,6 +25,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 - ⚡ Fast & Responsive UI
 
 ---
+
 
 # 🛠 Tech Stack
 
@@ -109,6 +111,7 @@ Use the latest stable version of Android Studio (Meerkat or newer recommended).
 
 ---
 
+
 ## 3. Configure Firebase
 
 - Create a Firebase project.
@@ -125,6 +128,7 @@ Allow Android Studio to download all dependencies.
 
 ---
 
+
 ## 5. Run the Application
 
 Run on:
@@ -133,6 +137,7 @@ Run on:
 - Physical Android Device (Android 8.0+)
 
 ---
+
 
 # 📱 Application Flow
 
@@ -159,6 +164,7 @@ Create Room      Join Room
 
 ---
 
+
 # 📸 Screens
 
 - Splash
@@ -172,6 +178,7 @@ Create Room      Join Room
 - Settings
 
 ---
+
 
 # 🔒 Permissions
 
@@ -193,6 +200,7 @@ FOREGROUND_SERVICE
 
 ---
 
+
 # 📦 Main Dependencies
 
 - Jetpack Compose
@@ -208,6 +216,7 @@ FOREGROUND_SERVICE
 
 ---
 
+
 # 🚀 Future Enhancements
 
 - 👥 Group Video Calls
@@ -222,6 +231,7 @@ FOREGROUND_SERVICE
 - 🌐 Multi-language Support
 
 ---
+
 
 # 🏛 Architecture
 
@@ -243,6 +253,7 @@ Peer-to-Peer Communication
 ```
 
 ---
+
 
 # 📄 License
 
