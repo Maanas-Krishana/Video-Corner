@@ -1,11 +1,13 @@
 # 📹 Video-Corner Private
 
 
+
 > A modern Android video conferencing application built with **Kotlin**, **Jetpack Compose**, **WebRTC**, and **Firebase** for secure, real-time video communication.
 
 ---
 
 # 📌 Overview
+
 
 
 Video-Corner Private is a lightweight and secure Android video conferencing application that allows users to create or join private meeting rooms with high-quality audio and video. Built using modern Android development practices, the application leverages Jetpack Compose for UI, Firebase for backend services, and WebRTC for peer-to-peer communication.
@@ -14,6 +16,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 
 
 # ✨ Features
+
 
 - 📹 HD Video Calling
 - 🎙️ Mute / Unmute Microphone
@@ -30,6 +33,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 
 
 # 🛠 Tech Stack
+
 
 
 ### Language
@@ -66,6 +70,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 # 📂 Project Structure
 
 
+
 ```
 Video-Corner-Private/
 
@@ -98,6 +103,7 @@ Video-Corner-Private/
 ---
 
 # 🚀 Getting Started
+
 
 
 ## 1. Clone Repository
@@ -147,6 +153,7 @@ Run on:
 # 📱 Application Flow
 
 
+
 ```
 Splash Screen
       │
@@ -174,6 +181,7 @@ Create Room      Join Room
 # 📸 Screens
 
 
+
 - Splash
 - Login / Sign Up
 - Home
@@ -188,6 +196,7 @@ Create Room      Join Room
 
 
 # 🔒 Permissions
+
 
 
 ```xml
@@ -212,6 +221,7 @@ FOREGROUND_SERVICE
 # 📦 Main Dependencies
 
 
+
 - Jetpack Compose
 - Material 3
 - Navigation Compose
@@ -229,6 +239,7 @@ FOREGROUND_SERVICE
 # 🚀 Future Enhancements
 
 
+
 - 👥 Group Video Calls
 - 🖥️ Screen Sharing
 - 🎥 Call Recording
@@ -244,6 +255,7 @@ FOREGROUND_SERVICE
 
 
 # 🏛 Architecture
+
 
 
 ```
@@ -269,11 +281,13 @@ Peer-to-Peer Communication
 # 📄 License
 
 
+
 This project is licensed under the **MIT License**.
 
 ---
 
 # 👨‍💻 Author
+
 
 
 Developed using modern Android technologies including **Kotlin**, **Jetpack Compose**, **MVVM**, **Firebase**, and **WebRTC** to demonstrate a basic private video conferencing application.
