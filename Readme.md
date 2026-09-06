@@ -2,11 +2,13 @@
 
 
 
+
 > A modern Android video conferencing application built with **Kotlin**, **Jetpack Compose**, **WebRTC**, and **Firebase** for secure, real-time video communication.
 
 ---
 
 # 📌 Overview
+
 
 
 
@@ -16,6 +18,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 
 
 # ✨ Features
+
 
 
 - 📹 HD Video Calling
@@ -33,6 +36,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 
 
 # 🛠 Tech Stack
+
 
 
 
@@ -68,6 +72,7 @@ Video-Corner Private is a lightweight and secure Android video conferencing appl
 ---
 
 # 📂 Project Structure
+
 
 
 
